@@ -1,0 +1,17 @@
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.exe
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.deps.json
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.runtimeconfig.json
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.runtimeconfig.dev.json
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.dll
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\ref\Contador.dll
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Contador.pdb
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.csproj.AssemblyReference.cache
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.AssemblyInfoInputs.cache
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.AssemblyInfo.cs
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.csproj.CoreCompileInputs.cache
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.dll
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\ref\Contador.dll
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.pdb
+C:\Users\ktronix\source\repos\Contador\Contador\obj\Debug\net5.0\Contador.genruntimeconfig.cache
+C:\Users\ktronix\source\repos\Contador\Contador\bin\Debug\net5.0\Texto.txt
